@@ -72,6 +72,8 @@ SELECT Round(AVG(price),2) AS average_price
 
 FROM pizzas;
 
+<img src-"Screenshot 1.png">
+
 How many orders were placed for each pizza type?
 
 SELECT pizza_type, COUNT(*) AS order_count
