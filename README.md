@@ -72,7 +72,7 @@ SELECT Round(AVG(price),2) AS average_price
 
 FROM pizzas;
 
-
+https://github.com/Barrow719/SQL-Analysis-of-Pizza-Sales-and-Consumer-Behavior/issues/1#issue-2824924201
 
 How many orders were placed for each pizza type?
 
